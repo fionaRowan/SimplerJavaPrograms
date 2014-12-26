@@ -1,7 +1,6 @@
-package seatingChart;
+
 /** 
  * Fiona Rowan 
- * fmr2112
  * 11/9/2013
  * SeatChart class
  * 

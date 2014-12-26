@@ -1,4 +1,4 @@
-package org.grosspay;
+
 
 import java.util.Scanner;
 public class Trial {

@@ -1,4 +1,4 @@
-package customer;
+
 /** 
  * Fiona Rowan 
  * fmr2112

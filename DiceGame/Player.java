@@ -1,4 +1,4 @@
-package DiceGame;
+
 import java.util.Scanner;
 
 //********************************

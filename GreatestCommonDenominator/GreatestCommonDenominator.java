@@ -1,4 +1,4 @@
-package org.GreatestCommonDenominator;
+
 
 import java.util.Scanner;
 public class GreatestCommonDenominator {

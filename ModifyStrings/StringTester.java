@@ -1,4 +1,4 @@
-package stringModifier;
+
 
 import java.util.Scanner;
 

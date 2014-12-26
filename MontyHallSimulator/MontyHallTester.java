@@ -1,4 +1,4 @@
-package MontyHallSimulator;
+
 
 import java.util.Scanner;
 
